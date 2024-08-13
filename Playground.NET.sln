@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Redis", "Playground.Redis\Playground.Redis.csproj", "{68499594-6EB1-401D-BF48-DD3FB66A1D8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Cloudinary", "Playground.Cloudinary\Playground.Cloudinary.csproj", "{808EB7F0-D513-4905-B133-299B39E0F297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{68499594-6EB1-401D-BF48-DD3FB66A1D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68499594-6EB1-401D-BF48-DD3FB66A1D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68499594-6EB1-401D-BF48-DD3FB66A1D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808EB7F0-D513-4905-B133-299B39E0F297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808EB7F0-D513-4905-B133-299B39E0F297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808EB7F0-D513-4905-B133-299B39E0F297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808EB7F0-D513-4905-B133-299B39E0F297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
