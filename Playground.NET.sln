@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Redis", "Playgro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Cloudinary", "Playground.Cloudinary\Playground.Cloudinary.csproj", "{808EB7F0-D513-4905-B133-299B39E0F297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.RabbitMQ", "Playground.RabbitMQ\Playground.RabbitMQ.csproj", "{0D0CF2F4-9FEE-45A8-9F6C-A4E22AB561C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.RabbitMQ.Consumer", "Playground.RabbitMQ.Consumer\Playground.RabbitMQ.Consumer.csproj", "{EA5627FE-EEF6-4A04-A533-1D8055AB6CD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{808EB7F0-D513-4905-B133-299B39E0F297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808EB7F0-D513-4905-B133-299B39E0F297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808EB7F0-D513-4905-B133-299B39E0F297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0CF2F4-9FEE-45A8-9F6C-A4E22AB561C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0CF2F4-9FEE-45A8-9F6C-A4E22AB561C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0CF2F4-9FEE-45A8-9F6C-A4E22AB561C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0CF2F4-9FEE-45A8-9F6C-A4E22AB561C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5627FE-EEF6-4A04-A533-1D8055AB6CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5627FE-EEF6-4A04-A533-1D8055AB6CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5627FE-EEF6-4A04-A533-1D8055AB6CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5627FE-EEF6-4A04-A533-1D8055AB6CD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
